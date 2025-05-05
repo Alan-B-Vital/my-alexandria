@@ -6,8 +6,8 @@ export default function Home() {
             <main className="flex flex-col gap-[32px]">
                 <h1 className="lg:text-5xl">Catálogo Pessoal de Livros e Filmes</h1>
                 <p className="text-lg font-medium">
-                    Organize suas leituras favoritos em um só lugar. Com este catálogo pessoal, você pode adicionar obras que já viu, marcar o que ainda quer ler,
-                    e destacar seus favoritos. Tudo isso com uma interface rápida, filtrável e visual, pensada para facilitar o acesso ao seu acervo.
+                    Organize suas leituras favoritos em um só lugar. Com este catálogo pessoal, você pode adicionar obras que já viu, marcar o que ainda quer ler. 
+                    Tudo isso com uma interface rápida, visual, pensada para facilitar o acesso ao seu acervo.
                 </p>
                 <p className="text-lg font-medium">
                     Cadastre-se e comece já!!!    
