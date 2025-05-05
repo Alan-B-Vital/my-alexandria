@@ -38,6 +38,7 @@ const newSchema = new mongoose.Schema({
     }
 });
 
+// Evita o OverwriteModelError
 const Book = mongoose.models?.Book || mongoose.model('Book', newSchema);
 
 export default Book;

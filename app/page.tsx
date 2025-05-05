@@ -9,6 +9,9 @@ export default function Home() {
                     Organize suas leituras favoritos em um só lugar. Com este catálogo pessoal, você pode adicionar obras que já viu, marcar o que ainda quer ler,
                     e destacar seus favoritos. Tudo isso com uma interface rápida, filtrável e visual, pensada para facilitar o acesso ao seu acervo.
                 </p>
+                <p className="text-lg font-medium">
+                    Cadastre-se e comece já!!!    
+                </p>
             </main>
         </div>
     );

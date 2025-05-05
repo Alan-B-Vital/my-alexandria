@@ -1,5 +1,5 @@
 'use server'
-import { SignupFormSchema, SigninFormSchema, FormState } from '@/app/lib/definitions';
+import { SignupFormSchema, SigninFormSchema, FormState } from '@/app/lib/authDefinitions';
 import bcrypt from "bcryptjs";
 import dbConnect from '../lib/db';
 import User from '@/models/User';
